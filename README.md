@@ -1,6 +1,5 @@
-# Infrestrutura-Explorando-o-cache
-Nesta atividade foi elaborarado um tutorial utilizando Python + Flask por Michele Ramos e João Pires
 # Atividade - Explorando o cache de HTTP em aplicações REST
+Nesta atividade foi elaborarado um tutorial utilizando Python + Flask por Michele Ramos e João Pires
 
 ## instalar o Flask
 `pip install Flask`
